@@ -1,0 +1,31 @@
+*.class
+.idea/
+venv/
+target
+/bin/
+/.settings/
+.project
+.classpath
+node_modules/
+package-lock.json
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.csv___jb_old___
+*.csv___jb_tmp___
+
+*.json
+*.csv
+*.pyc
+
+# pycharm
+/**/__pycache__
+
+# Serverless directories
+.serverless
+
+#VS Code
+.settings/
+.factorypath
